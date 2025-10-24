@@ -34,7 +34,7 @@ Gosto de criar interfaces modernas, sistemas funcionais e soluções que fazem a
 ## 🌐 Conecte-se comigo
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beamonteiro19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-monteiro-1b06321ba/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beamonteiro19)
 
 </div>
