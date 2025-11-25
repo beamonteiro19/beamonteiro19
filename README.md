@@ -43,14 +43,14 @@ Gosto de aprender no meu ritmo, transformar ideias em interfaces bonitas e funci
 ## Estatísticas  
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=beamonteiro19&show_icons=true&theme=dark&hide_border=true&bg_color=000000&icon_color=ffffff&title_color=ffffff&text_color=ffffff"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beamonteiro19&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"/>
+  <img height="150" src="https://github-readme-stats-beige-psi.vercel.app/api?username=beamonteiro19&show_icons=true&theme=dark&hide_border=true&bg_color=000000&icon_color=ffffff&title_color=ffffff&text_color=ffffff" />
+
+  <p><img height="150" src="https://github-readme-stats-beige-psi.vercel.app/api/top-langs/?username=beamonteiro19&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=beamonteiro19&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=beamonteiro19&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 </p>
-
 ---
 
 ## Onde me encontrar
