@@ -1,44 +1,63 @@
-# 👩🏻‍💻 Beatriz Monteiro  
+# Beatriz Monteiro
+
 **`Futura Dev FullStack`**
 
-💡 Apaixonada por tecnologia e pelo poder de transformar ideias em código.  
-Gosto de criar interfaces modernas, sistemas funcionais e soluções que fazem a diferença.
+<p align="center">
+  <img src="https://i.redd.it/1nru9qlag60e1.jpeg" width="100%" alt="Banner preto e branco"/>
+</p>
 
 ---
 
-## ⚙️ Tech Stack
-<div align="center">
+## Sobre mim  
+Olá! Eu sou a **Beatriz Monteiro**, futura desenvolvedora FullStack.  
+Atualmente estudo Desenvolvimento de Software Multiplataforma e construo projetos que me ajudam a evoluir minhas habilidades em Front-End, Back-End e boas práticas de código.
 
-### 💻 Front-end  
-<img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind&theme=dark" />
-
-### ⚙️ Back-end  
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,php,firebase,python&theme=dark" />
-
-### 🧰 Ferramentas  
-<img src="https://skillicons.dev/icons?i=git,figma,npm,vscode&theme=dark" />
-
-</div>
+Gosto de aprender no meu ritmo, transformar ideias em interfaces bonitas e funcionais, e criar soluções simples que realmente resolvem problemas.
 
 ---
 
-## 📊 Estatísticas
+## Tecnologias que uso / estudo
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=beamonteiro19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beamonteiro19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Linguagens" />
+<p align="center">
+  
+  
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white" />
+  <br/>
 
-<img src="https://streak-stats.demolab.com/?user=beamonteiro19&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white" />
+  <br/>
+
+
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" />
+
+</p>
 
 ---
 
-## 🌐 Conecte-se comigo
-<div align="center">
+## Estatísticas  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-monteiro-1b06321ba/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beamonteiro19)
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=beamonteiro19&show_icons=true&theme=dark&hide_border=true&bg_color=000000&icon_color=ffffff&title_color=ffffff&text_color=ffffff"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beamonteiro19&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=beamonteiro19&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
+</p>
 
 ---
 
-> 💭 “Cada linha de código é uma oportunidade de criar algo incrível.”
+## Onde me encontrar
+<p align="center">
+   <a href="https://www.linkedin.com/in/beatriz-mv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://beamonteiro19.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:beatrizmonteirovieira@outlook.com"><img src="https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
