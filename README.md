@@ -42,15 +42,20 @@ Gosto de aprender no meu ritmo, transformar ideias em interfaces bonitas e funci
 
 ## Estatísticas  
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats-beige-psi.vercel.app/api?username=beamonteiro19&show_icons=true&theme=dark&hide_border=true&bg_color=000000&icon_color=ffffff&title_color=ffffff&text_color=ffffff" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
 
-  <p><img height="150" src="https://github-readme-stats-beige-psi.vercel.app/api/top-langs/?username=beamonteiro19&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
-</p>
+  <img height="160" src="https://github-readme-stats-beige-psi.vercel.app/api?username=beamonteiro19&show_icons=true&theme=dark&hide_border=true&bg_color=000000&icon_color=ffffff&title_color=ffffff&text_color=ffffff" />
 
-<p align="center">
+  <img height="160" src="https://github-readme-stats-beige-psi.vercel.app/api/top-langs/?username=beamonteiro19&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=beamonteiro19&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
-</p>
+</div>
+
 ---
 
 ## Onde me encontrar
