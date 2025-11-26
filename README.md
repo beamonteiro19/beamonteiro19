@@ -36,6 +36,10 @@ Gosto de aprender no meu ritmo, transformar ideias em interfaces bonitas e funci
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" />
 
+   <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img src="https://img.shields.io/badge/No SQL-000?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+
 </p>
 
 ---
