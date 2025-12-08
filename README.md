@@ -1,18 +1,24 @@
 # Beatriz Monteiro
 
-**`Futura Dev FullStack`**
-
-<p align="center">
-  <img src="https://i.redd.it/1nru9qlag60e1.jpeg" width="100%" alt="Banner preto e branco"/>
-</p>
+**`Dev FullStack Jr.`**
 
 ---
+
+<img width="2056" height="520" alt="Banner preto (2)" src="https://github.com/user-attachments/assets/f9b21840-1aac-4cd2-85d0-8afdcb0f76c8" />
+
 
 ## Sobre mim  
 Olá! Eu sou a **Beatriz Monteiro**, futura desenvolvedora FullStack.  
 Atualmente estudo Desenvolvimento de Software Multiplataforma e construo projetos que me ajudam a evoluir minhas habilidades em Front-End, Back-End e boas práticas de código.
 
 Gosto de aprender no meu ritmo, transformar ideias em interfaces bonitas e funcionais, e criar soluções simples que realmente resolvem problemas.
+
+---
+
+<p align="center">
+  <img src="https://i.redd.it/1nru9qlag60e1.jpeg" width="100%" alt="Banner preto e branco"/>
+</p>
+
 
 ---
 
