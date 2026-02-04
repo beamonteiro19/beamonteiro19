@@ -49,6 +49,29 @@ Gosto de aprender no meu ritmo, transformar ideias em interfaces bonitas e funci
 </p>
 
 ---
+###  Stack Visual
+```mermaid
+graph TB
+    A[Frontend] --> B(React)
+    A --> C(TypeScript)
+    A --> D(HTML/CSS)
+    
+    E[Backend] --> F(Node.js)
+    E --> G(Express)
+    E --> H(SQL)
+    E --> I(MongoDB)
+    
+    J[Mobile] --> K(React Native)
+    
+    L[Linguagens] --> M(JavaScript)
+    L --> N(Python)
+    
+    style A fill:#ff7675,color:#000,stroke:#2f2f2f
+    style E fill:#4ecdc4,color:#000,stroke:#2f2f2f
+    style J fill:#45b7d1,color:#000,stroke:#2f2f2f
+    style L fill:#f9ca24,color:#000,stroke:#2f2f2f
+```
+---
 
 ## Estatísticas  
 
@@ -63,7 +86,7 @@ Gosto de aprender no meu ritmo, transformar ideias em interfaces bonitas e funci
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=beamonteiro19&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=beamonteiro19&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 </div>
 
 ---
