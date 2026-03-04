@@ -8,10 +8,10 @@
 
 
 ## Sobre mim  
-Olá! Eu sou a **Beatriz Monteiro**, futura desenvolvedora FullStack.  
-Atualmente estudo Desenvolvimento de Software Multiplataforma e construo projetos que me ajudam a evoluir minhas habilidades em Front-End, Back-End e boas práticas de código.
+Olá! Eu sou a **Beatriz Monteiro**, desenvolvedora FullStack.  
+Atualmente estudo Desenvolvimento de Software Multiplataforma, crio projetos que me ajudam a evoluir minhas habilidades como FullStack e me aventuro um pouco com DevOps.
 
-Gosto de aprender no meu ritmo, transformar ideias em interfaces bonitas e funcionais, e criar soluções simples que realmente resolvem problemas.
+Gosto de aprender no meu ritmo, transformar ideias em interfaces bonitas e funcionais, e criar sistemas que realmente resolvem problemas.
 
 ---
 
