@@ -1,23 +1,22 @@
 # Beatriz Monteiro
 
-**`Dev FullStack Jr.`**
+**`Estagiária | Dev FullStack.`**
 
 ---
 
 <img width="2056" height="520" alt="Banner preto (2)" src="https://github.com/user-attachments/assets/f9b21840-1aac-4cd2-85d0-8afdcb0f76c8" />
 
-
+---
 ## Sobre mim  
-Olá! Eu sou a **Beatriz Monteiro**, desenvolvedora FullStack.  
-Atualmente estudo Desenvolvimento de Software Multiplataforma, crio projetos que me ajudam a evoluir minhas habilidades como FullStack e me aventuro um pouco com DevOps.
+
+<img src="https://i.redd.it/1nru9qlag60e1.jpeg" align="right" width="350" alt="Banner preto e branco" style="margin-left: 20px; border-radius: 10px;"/>
+
+Olá! Eu sou a **Beatriz Monteiro**, desenvolvedora FullStack em formação.
+Atualmente sou estagiária da Cadmus Soluções em TI, também sou estudante do bacherelado Desenvolvimento de Software Multiplataforma, crio projetos que me ajudam a evoluir minhas habilidades como FullStack e me aventuro um pouco com DevOps.
 
 Gosto de aprender no meu ritmo, transformar ideias em interfaces bonitas e funcionais, e criar sistemas que realmente resolvem problemas.
 
----
-
-<p align="center">
-  <img src="https://i.redd.it/1nru9qlag60e1.jpeg" width="100%" alt="Banner preto e branco"/>
-</p>
+<br clear="right"/>
 
 
 ---
@@ -94,7 +93,7 @@ graph TB
 ## Onde me encontrar
 <p align="center">
    <a href="https://www.linkedin.com/in/beatriz-mv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://beamonteiro19.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+ <a href="https://portfolio-dev-mu-wine.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:beatrizmonteirovieira@outlook.com"><img src="https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
