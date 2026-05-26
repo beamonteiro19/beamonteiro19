@@ -1,3 +1,4 @@
+
 # Beatriz Monteiro
 
 **`Estagiária | Analista de Desenvolvimento I`**
@@ -9,7 +10,7 @@
 ---
 ## Sobre mim  
 
-<img src="https://i.redd.it/1nru9qlag60e1.jpeg" align="right" width="350" alt="Banner preto e branco" style="margin-left: 20px; border-radius: 10px;"/>
+<img  align="right" width="275" alt="gatu"  style="margin-left: 20px; border-radius: 10px;"  src="https://github.com/user-attachments/assets/e0881bcb-2115-49db-ab57-f7dc79f60ccd" />
 
 Olá! Eu sou a **Beatriz Monteiro**, Analista de Desenvolvimento I.
 Atualmente sou estagiária da Cadmus Soluções em TI, também sou estudante do bacherelado Desenvolvimento de Software Multiplataforma, crio projetos que me ajudam a evoluir minhas habilidades como FullStack e me aventuro um pouco com DevOps.
