@@ -1,6 +1,6 @@
 # Beatriz Monteiro
 
-**`Estagiária | Dev FullStack.`**
+**`Estagiária | Analista de Desenvolvimento I`**
 
 ---
 
@@ -11,7 +11,7 @@
 
 <img src="https://i.redd.it/1nru9qlag60e1.jpeg" align="right" width="350" alt="Banner preto e branco" style="margin-left: 20px; border-radius: 10px;"/>
 
-Olá! Eu sou a **Beatriz Monteiro**, desenvolvedora FullStack em formação.
+Olá! Eu sou a **Beatriz Monteiro**, Analista de Desenvolvimento I.
 Atualmente sou estagiária da Cadmus Soluções em TI, também sou estudante do bacherelado Desenvolvimento de Software Multiplataforma, crio projetos que me ajudam a evoluir minhas habilidades como FullStack e me aventuro um pouco com DevOps.
 
 Gosto de aprender no meu ritmo, transformar ideias em interfaces bonitas e funcionais, e criar sistemas que realmente resolvem problemas.
